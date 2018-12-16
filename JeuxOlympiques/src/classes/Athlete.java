@@ -11,7 +11,7 @@ public class Athlete {
 	private List<Games> games = new ArrayList<>();
 	// none medal
 	private List <Medal> medals = new ArrayList<Medal>();
-	
+	 
 	
 	public Athlete() {
 		

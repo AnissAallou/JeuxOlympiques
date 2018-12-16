@@ -12,7 +12,7 @@
 	<!-- API Google -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:500" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:700,900" rel="stylesheet">
-
+ 
 	<!-- feuille de style CSS -->
 	<link type="text/css" rel="stylesheet" href="css/style.css" />
 

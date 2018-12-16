@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Rewards</title>
-<style>
+<style> 
 head, body, thead, tbody, table {
 background-color: red; 
 }

@@ -6,7 +6,7 @@
 <head>
 <style>
 body {
-background-color: cyan;
+background-color: cyan; 
 }
 </style>
 </head>

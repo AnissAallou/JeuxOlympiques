@@ -5,9 +5,9 @@
     <welcome-file>accueil.jsp</welcome-file>
   </welcome-file-list>
   <session-config>
-    <session-timeout>10</session-timeout>
+    <session-timeout>12</session-timeout>
   </session-config>
-  <jsp-config>
+  <jsp-config> 
     <jsp-property-group>
       <url-pattern>*.jsp</url-pattern>
       <include-prelude>/WEB-INF/jstl.jsp</include-prelude>

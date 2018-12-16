@@ -9,7 +9,7 @@ public class Medal {
 	public Medal(GradeMedal gradeMedal, Games game) {
 		this.gradeMedal = gradeMedal;
 		this.game = game;
-	}
+	} 
 
 	// getters 
 	

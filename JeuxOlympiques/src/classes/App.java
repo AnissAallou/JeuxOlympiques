@@ -5,7 +5,7 @@ public class App {
 	public static void main(String[] args) {
 			
 		// Instanciation des athlètes 
-		Athlete sportif1 = new Athlete("Gennaro","Gattuso");
+		Athlete sportif1 = new Athlete("Gennaro","Gattuso"); 
 		Athlete sportif2 = new Athlete("Andrea","Pirlo");
 		
 		// Médaille d'or pour sportif1 au 100 mètres 

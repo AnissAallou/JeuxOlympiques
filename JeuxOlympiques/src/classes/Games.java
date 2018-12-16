@@ -9,7 +9,7 @@ public enum Games {
 	TWOHUNDREDMETERS("200 mètres", "Course", "TWOHUNDREDMETERS"),
 	SHOTPUT("Lancer de poids", "Compétition", "SHOTPUT");
 
-	// variables
+	// variables 
 	private final String nom;
 	private final String presentation;
 	private final String cle;

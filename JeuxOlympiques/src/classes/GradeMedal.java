@@ -6,7 +6,7 @@ public enum GradeMedal {
  	SILVER("Medaille d'ARGENT", "SILVER"),
  	GOLD("Medaille d'OR", "GOLD");
 		
-	// variables
+	// variables 
 	private String medal;
 	private String grade;
 	

@@ -10,7 +10,7 @@ public class ConnectJDBC {
 
 	
 
-
+ 
 		
 		public static Connection getConnection() throws Exception	{
 		

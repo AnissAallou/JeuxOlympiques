@@ -11,7 +11,7 @@ import javax.servlet.annotation.WebListener;
 @WebListener
 public class ListAthletes implements ServletContextListener {
 
-	static ArrayList <Athlete> sportifs;
+	static ArrayList <Athlete> sportifs; 
 	static {
     	
 		sportifs = new ArrayList<Athlete>();

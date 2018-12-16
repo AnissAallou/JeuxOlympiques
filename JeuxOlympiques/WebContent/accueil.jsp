@@ -8,7 +8,7 @@ body {
 background-color: cyan;
 }
 </style>
-</head>
+</head> 
 <body>
 <h1 style="text-align: center; color:blue;"><strong>Tu es chez Aziz</strong></h1>
 <div style="text-align: center;">

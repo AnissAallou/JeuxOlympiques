@@ -27,7 +27,7 @@ body {
 		</a>
 	 <form style="margin-top : 50px" method = "POST" action="<c:url value='/ShowRecompense'/>">
 	     <button type="submit" class="btn btn-success" style="background-color: blue;">Check Reward</button>
-	   	</form>
+	   	</form> 
 	   	
 	</div>	   	
 		<div class="container">
